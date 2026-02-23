@@ -1,0 +1,28 @@
+password
+iDirect
+P@55w0rd!
+flash started
+flash completed
+
+
+beam_432 = ASTRA 2F MAIN RFT
+beam_536 = ASTRA 2F DR RFT         ( Astra 2F sat)
+
+
+	
+beam_432 = ASTRA 2F MAIN RFT
+
+BEAMS]
+	beam_408 = ASTRA 2F DR RFT
+
+
+BEAMS]
+beam_432 = ASTRA 2F MAIN
+beam_408 = ASTRA 2F DR RFT
+
+	
+
+beam_385 = ASTRA 2F MAIN RFT
+
+BEAMS]
+	beam_389 = ASTRA 2F DR RFT  ( Astra 2G sat)

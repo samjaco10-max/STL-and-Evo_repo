@@ -1,0 +1,48 @@
+login as: root
+root@10.180.156.161's password:
+[root@iq-linux:active1:~] > mewsh beam_list
+
+  - ~~ NOT currently in Map Mode (Haven't yet successfully parsed a MapFile)
+  - ~~ Quality & Gain have NOT yet been updated from the mapfile
+  - |+
+    INACTIVE: ASTRA 2F MAIN RFT (562)
+         NOT configured in MapFile
+         Beam is NOT in the current Mapfile
+         Beam's Satellite is visible
+         Current beam quality (from map): 0
+         Overall beam quality (Calculated): -60
+
+  - |+
+     ACTIVE: ASTRA 2F DR RFT (536)
+         NOT configured in MapFile
+         Beam is NOT in the current Mapfile
+         Beam's Satellite is visible
+         Current beam quality (from map): 0
+         Overall beam quality (Calculated): 5
+
+
+[root@iq-linux:active1:~] > mewsh beam_switch 562 f
+
+  success: true
+[root@iq-linux:active1:~] > mewsh beam_list
+
+  - ~~ NOT currently in Map Mode (Haven't yet successfully parsed a MapFile)
+  - ~~ Quality & Gain have NOT yet been updated from the mapfile
+  - |+
+     ACTIVE: ASTRA 2F MAIN RFT (562)
+         NOT configured in MapFile
+         Beam is NOT in the current Mapfile
+         Beam's Satellite is visible
+         Current beam quality (from map): 0
+         Overall beam quality (Calculated): 5
+
+  - |+
+    INACTIVE: ASTRA 2F DR RFT (536)
+         NOT configured in MapFile
+         Beam is NOT in the current Mapfile
+         Beam's Satellite is visible
+         Current beam quality (from map): 0
+         Overall beam quality (Calculated): 0
+
+
+[root@iq-linux:active1:~] >

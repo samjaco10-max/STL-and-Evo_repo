@@ -1,0 +1,37 @@
+
+Administration password: admin123
+
+CONFROOM           CONF@1234!
+GYMROOM            GYM@123!
+Apartment 17       Railway8866
+Apartment 8        Railway8877
+Apartment 16       Railway88@16
+Apartment 15       Railway88@15
+Apartment 14       Railway88@14
+Apartment 13       Railway88@13
+Apartment 11       Railway88@11
+Apartment 7        Railway88@07
+Apartment 12       Railway88@12
+Apartment 9        Railway88@09
+Apartment 5        Railway88@05
+Apartment 1        Railway8855
+Apartment 2        Railway88@02
+STORESROOM         $T0RESR00M@1
+Transport          Railway@TRAN$
+Apartment_3        Railway88@03
+Apartment_10       Railway88@10
+Apartment_06       Railway88@06	
+
+
+
+All administrative password:
+
+admin123
+
+$PassW0rd$123
+$@LuteTNGH12
+$amd@tad$
+$@LuteAA997
+admin789
+Admin/$@LuteAA997
+
